@@ -1,0 +1,39 @@
+<repositories>
+
+	<repository>
+      <name>jsergio123</name>
+      <username>jsergio123</username>
+      <description>ResolveURL</description>
+	</repository>
+
+	<repository>
+      <name>TV ADDONS</name>
+      <username>tvaddonsco</username>
+      <description>URLResolver</description>
+	</repository>
+
+	<repository>
+      <name>Team Universal</name>
+      <username>teamuniversal</username>
+      <description>Universal Scrapers</description>
+	</repository>
+
+	<repository>
+      <name>DxCx</name>
+      <username>DxCx</username>
+      <description>9Anime</description>
+	</repository>
+
+	<repository>
+      <name>NixGates</name>
+      <username>nixgates</username>
+      <description>Incursion, Anime Incursion, WatchNixtoons</description>
+	</repository>
+
+	<repository>
+      <name>Mr. Blamo</name>
+      <username>MrBlamo420</username>
+      <description>Death Streams, Neptune Rising, Placenta</description>
+	</repository>
+
+</repositories>
