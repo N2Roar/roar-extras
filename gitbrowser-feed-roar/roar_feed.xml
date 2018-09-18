@@ -18,22 +18,4 @@
       <description>Universal Scrapers</description>
 	</repository>
 
-	<repository>
-      <name>DxCx</name>
-      <username>DxCx</username>
-      <description>9Anime</description>
-	</repository>
-
-	<repository>
-      <name>NixGates</name>
-      <username>nixgates</username>
-      <description>Incursion, Anime Incursion, WatchNixtoons</description>
-	</repository>
-
-	<repository>
-      <name>Mr. Blamo</name>
-      <username>MrBlamo420</username>
-      <description>Death Streams, Neptune Rising, Placenta</description>
-	</repository>
-
 </repositories>
